@@ -1,15 +1,6 @@
 body {
   background-color: #FDF5E6;
-  margin: 3em;
-}
-
-.fafa-female {
-  font-size: 25em;
-  position: relative;
-}
-
-.fafa-female:after {
-  font-family: FontAwesome;
+  margin: 2em;
 }
 
 .three {
@@ -67,10 +58,28 @@ h3 {
   margin-bottom: 0.2em;
 }
 
-h1 {
+h1{
   color: #14274e;
   width: 113mm;
   font-size: 24px;
+  display: inline-block;
+}
+
+.fa-female {
+
+}
+
+.slow-spin {
+  -webkit-animation: fa-spin 8s infinite linear;
+  animation: fa-spin 8s infinite linear;
+}
+
+i {
+  margin-left: -267px; padding: -0.10px;
+}
+
+.fa-spin {
+
 }
 
 th {
