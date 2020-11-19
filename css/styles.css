@@ -47,6 +47,7 @@ h3 {
   text-align: left: 30mm;
   margin: 0 auto 5px;
   color: #394867;
+margin-bottom: -8px;
 }
 
 .he {
@@ -84,7 +85,7 @@ i {
 
 th {
   text-align: left;
-  line-height: 35px;
+  line-height: 33px;
 }
 
 td {
